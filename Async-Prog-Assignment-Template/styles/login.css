@@ -1,0 +1,34 @@
+#navbar{
+    height: 40px;
+    width: 95%;
+    display: flex;
+    justify-content: right;
+    border: 2px solid teal;
+    margin-left: 30px;
+    padding: 10px;
+    background-color: black;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    /* margin-right: 45px; */
+    font-size: 25px;
+    padding: 0px 35px;
+}
+
+h1{
+    text-align: center;
+}
+form{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    margin-top: 40px;
+     margin-left: 450px;
+}
+#submit{
+    background-color: teal;
+    color: white;
+}

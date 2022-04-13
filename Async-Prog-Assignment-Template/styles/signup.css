@@ -1,0 +1,37 @@
+#navbar{
+    height: 40px;
+    width: 95%;
+    display: flex;
+    justify-content: right;
+    border: 2px solid teal;
+    margin-left: 30px;
+    padding: 10px;
+    background-color: black;
+   
+}
+a{
+    text-decoration: none;
+    /* color: black; */
+    /* margin-right: 30px; */
+    font-size: 25px;
+    color: white;
+    padding: 0px 35px;
+
+}
+#submit{
+    background-color: teal;
+    color: white;
+}
+form{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    margin-top: 80px;
+     margin-left: 450px;
+}
+#login{
+    font-size: 20px;
+   
+    color: rgb(10, 82, 141);
+}
